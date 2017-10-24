@@ -9,7 +9,7 @@
   <img width="180" height="180" vspace="20"
     src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
   <a href="https://github.com/webpack/webpack">
-    <img width="200" height="200"
+    <img width="200" height="200" 
       src="https://webpack.js.org/assets/icon-square-big.svg">
   </a>
   <h1>CSS Loader</h1>
